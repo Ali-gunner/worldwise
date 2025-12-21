@@ -6,6 +6,6 @@ export default function Homepage() {
     <PageNav />
     <h1>Worldwise</h1>
 
-    <Link to='/pricing'>Pricing</Link>
+    <Link to='/app'>Go to the app</Link>
   </div>
 }
